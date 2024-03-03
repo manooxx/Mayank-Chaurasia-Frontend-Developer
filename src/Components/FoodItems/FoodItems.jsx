@@ -1,6 +1,6 @@
 import React, {useEffect, useState } from 'react'
 import axios from 'axios'
-import FoodGrid from './FoodGrid'
+import FoodGrid from './FoodGrid.jsx'
 import Pagination from '../Pagination/Pagination'
 import CartSkeleton from '../Additional/CartSkeleton'
 
