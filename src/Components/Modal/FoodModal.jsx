@@ -38,7 +38,7 @@ const FoodModal = ({ id, setFlag }) => {
 
 
 
-      <div className='md:w-2/5 rounded-2xl h- bg-white p-4'>
+      <div className='md:w-2/5 rounded-2xl h-96 bg-white p-4'>
         <div className='flex justify-end'>
 
         <IoClose className=' right-1/3 cursor-pointer text-lg hover:scale-105 duration-100' onClick={handleClick} />
